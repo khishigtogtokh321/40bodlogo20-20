@@ -63,7 +63,7 @@ Undo the last update to , making  empty again (i.e., ).
 Undo the next to last update to  (the deletion of the last  characters), making .
 Print the  character on a new line. Currently, the  character is a.
 
----asuult---"mongoloor" :
+---asuult---"Монголоор" :
 Энгийн текст засварлагч хэрэгжүүл
 Засварлагч нь анх хоосон тэмдэгт мөр ("") агуулсан байна. Дараах төрлийн Q тооны үйлдлийг гүйцэтгэнэ:
 
@@ -113,7 +113,7 @@ delete-д заагдсан нийт тэмдэгтийн тоо 10⁶-аас и�
 c  
 y  
 a
----Code (C++) ---
+---Код (C++) ---
 #include <iostream>
 #include <stack>
 using namespace std;
